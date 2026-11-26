@@ -1,0 +1,4 @@
+﻿id,texto,escala_min,escala_max,etiqueta_min,etiqueta_max
+eval_relator,¿Cómo evalúas al relator o relatora?,1,7,Muy malo,Excelente
+eval_claridad,¿La información se presentó con claridad?,1,7,Muy malo,Excelente
+eval_apoyos,¿Los apoyos tecnológicos fueron adecuados?,1,7,Muy malo,Excelente

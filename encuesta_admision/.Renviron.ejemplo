@@ -1,0 +1,6 @@
+# Copiar como .Renviron (NO subir al repositorio) y completar.
+ENCUESTA_BACKEND=local
+# ENCUESTA_BACKEND=gsheet
+ENCUESTA_SHEET_ID=
+ENCUESTA_GS_JSON=C:/ruta/fuera/del/proyecto/cuenta-servicio.json
+ENCUESTA_CLAVE_ADMIN=
